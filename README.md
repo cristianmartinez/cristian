@@ -1,5 +1,4 @@
 ```bash
-npx darrenjennings
+npx cristian
 ```
 
-![business card](/preview.png)

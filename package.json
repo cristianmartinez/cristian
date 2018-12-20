@@ -1,12 +1,12 @@
 {
-  "name": "darrenjennings",
+  "name": "cristian",
   "version": "1.0.0",
-  "description": "Darren Jennings",
+  "description": "Cristian Martinez",
   "main": "index.js",
   "bin": {
     "darrenjennings": "index.js"
   },
-  "author": "Darren Jennings",
+  "author": "Cristian Martinez",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0"
