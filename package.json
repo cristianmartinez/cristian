@@ -1,0 +1,14 @@
+{
+  "name": "darrenjennings",
+  "version": "1.0.0",
+  "description": "Darren Jennings",
+  "main": "index.js",
+  "bin": {
+    "darrenjennings": "index.js"
+  },
+  "author": "Darren Jennings",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0"
+  }
+}
